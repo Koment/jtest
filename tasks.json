@@ -1,0 +1,34 @@
+{
+        "Tasks": [
+
+            {
+                "id": 1,
+                "title": "Task One",
+                "text": "some text of task 1",
+                "date": "01.01.2021",
+                "reminder": true
+            },
+            {
+                "id": 2,
+                "title": "Task Two",
+                "text": "some text of task 2",
+                "date": "02.02.2021",
+                "reminder": true
+            },
+            {
+                "id": 3,
+                "title": "Task Tree",
+                "text": "some text of task 3",
+                "date": "03.03.2021",
+                "reminder": false
+            },
+            {
+                "id": 4,
+                "title": "Task Four",
+                "text": "some text of task 4",
+                "date": "04.04.2021",
+                "reminder": false
+        }
+
+    ]
+}
